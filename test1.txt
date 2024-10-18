@@ -1,0 +1,9 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 6EF7-B1F1
+
+ Directory of D:\New folder
+
+18-10-2024  19:05    <DIR>          .
+18-10-2024  19:05                 0 test1.txt
+               1 File(s)              0 bytes
+               1 Dir(s)  102,992,912,384 bytes free
